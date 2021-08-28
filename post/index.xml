@@ -5,16 +5,14 @@
     <link>https://hustszf.github.io/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 Aug 2021 19:11:51 +0800</lastBuildDate><atom:link href="https://hustszf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://hustszf.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
+      <title></title>
       <link>https://hustszf.github.io/post/blog/</link>
-      <pubDate>Sat, 28 Aug 2021 19:11:51 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hustszf.github.io/post/blog/</guid>
-      <description>这是我的第一篇hugo博客   所有的文档都是放在了content下 一般一个git的完整命令就是 这个文件夹是下面的public文件夹， public文件夹是通过语句生成的 hugo &amp;ndash;theme=m10c &amp;ndash;baseUrl=&amp;ldquo;https://hustszf.github.io/&amp;quot; &amp;ndash;buildDrafts
-   然后在&amp;rsquo;public&amp;rsquo;文件夹下git init 然后 git add . 然后 git commit -m &amp;ldquo;第一次提交&amp;rdquo; 然后就是 git remote git remote add origin git@github.com:hustszf/hustszf.github.io.git 然后就是建一个分支 git branch -M main 然后就是push git push -u origin main
+      <description>b&amp;mdash; title: &amp;ldquo;Blog&amp;rdquo; date: 2021-08-28T19:11:51+08:00 draft: true 这是我的第一篇hugo博客   所有的文档都是放在了content下 一般一个git的完整命令就是 这个文件夹是下面的public文件夹， public文件夹是通过语句生成的 hugo &amp;ndash;theme=m10c &amp;ndash;baseUrl=&amp;ldquo;https://hustszf.github.io/&amp;quot; &amp;ndash;buildDrafts  然后在&amp;rsquo;public&amp;rsquo;文件夹下git init 然后 git add . 然后 git commit -m &amp;ldquo;第一次提交&amp;rdquo; 然后就是 git remote git remote add origin git@github.com:hustszf/hustszf.github.io.git 然后就是建一个分支 git branch -M main 然后就是push git push -u origin main
   </description>
     </item>
     
