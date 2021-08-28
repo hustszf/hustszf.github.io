@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://hustszf.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Aug 2021 19:11:51 +0800</lastBuildDate><atom:link href="https://hustszf.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://hustszf.github.io/post/blog/</link>
+      <pubDate>Sat, 28 Aug 2021 19:11:51 +0800</pubDate>
+      
+      <guid>https://hustszf.github.io/post/blog/</guid>
+      <description>这是我的第一篇hugo博客 - 期待有更多的后续 </description>
+    </item>
+    
+  </channel>
+</rss>
